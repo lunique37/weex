@@ -86,4 +86,4 @@ See [FAQ](https://alibaba.github.io/weex/doc/faq.html) for more information.
 
 ## Contributing
 
-See [Weex Contributing Guide](./CONTRIBUTING.md) for more information.
+See [Weex Contributing Guide](./CONTRIBUTING.md) for more information.xp
